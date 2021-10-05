@@ -64,37 +64,31 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Zillow",
+        "title": "Apprentice Software Engineer",
+        "years": "09.2021-Present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "HTML5",
+          "CSS3",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "REST API"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Zillow",
+        "title": "Sourcing Vendor Specialist/Data Analyst",
+        "years": "01.2020-Present",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "SQL",
+          "Excel"
         ]
       }
     ]
