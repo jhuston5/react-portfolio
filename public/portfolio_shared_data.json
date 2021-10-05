@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Joshua Huston",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Anyone Can Engineer | Software Developer | Cyber Warfare | Building Amazing Products" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/jhuston5",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/joshua-huston/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Huston_LI.jpg"
     },
     "skills": {
       "icons": [
